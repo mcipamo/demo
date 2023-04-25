@@ -1,0 +1,10 @@
+users:
+  - name: hugo 
+    job: developer
+    uid: 3000
+  - name: paco
+    job: manager
+    uid: 3001
+  - name: luis 
+    job: developer 
+    uid: 3002
